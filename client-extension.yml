@@ -1,0 +1,13 @@
+assemble:
+    - from: dist
+      into: static
+lfr-angular-remote-app:
+    friendlyURLMapping: lfr-angular-remote-app
+    htmlElementName: lfr-angular-remote-app
+    instanceable: false
+    name: Liferay Angular Remote App
+    portletCategoryName: category.client-extensions
+    type: customElement
+    urls:
+        - main.js
+    useESM: true
