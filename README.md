@@ -1,6 +1,6 @@
 ![Angular version](https://img.shields.io/github/package-json/dependency-version/lgdd/lfr-angular-remote-app/angular)
 
-# Liferay Angular Remote App
+# Liferay Angular Remote App (Client Extension)
 
 This is a template intended for tests & demos. The webpack configuration included is not optimized for production environments.
 
